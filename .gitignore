@@ -1,0 +1,28 @@
+# Compiled files
+*.dll
+*.pdb
+*.exe
+
+# Unity metadata
+*.meta
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.sln
+*.csproj
+
+# 7 Days To Die Specific
+Saves/
+UserData/

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ModInfo>
+	<Name value="AutoCloseDoors"/>
+	<DisplayName value="Auto Close Doors"/>
+	<Description value="Doors close automatically after a certain amount of time."/>
+	<Author value="ephesius"/>
+	<Version value="1.0.0"/>
+	<Website value=""/>
+</ModInfo>
